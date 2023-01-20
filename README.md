@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![](http://g.recordit.co/wE0i6y3ch7.gif)
-
+![](http://g.recordit.co/PxpEWB4T8C.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
