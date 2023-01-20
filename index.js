@@ -208,14 +208,3 @@ runnerUp.innerHTML = secondElement.name
 
 firstGameContainer.appendChild(topPledged)
 secondGameContainer.appendChild(runnerUp)
-
-
-//instructions
-//seaworthy
-//oozedivetrappine
-//6games-container.stats-card15
-//11seafoamGAMES_JSON
-//19187800268brain
-//74FLANNELclick
-//toLocaleString<div>1ivy
-//zoohowCEDAR
