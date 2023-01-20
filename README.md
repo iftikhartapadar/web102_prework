@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![wE0i6y3ch7](http://g.recordit.co/wE0i6y3ch7.gif)
 <img src='http://g.recordit.co/wE0i6y3ch7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
