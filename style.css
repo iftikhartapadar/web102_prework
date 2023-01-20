@@ -21,6 +21,10 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    font-size: large;
+    cursor: pointer;
+    box-shadow: 0px 0px 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +76,13 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor: pointer;
+}
+
+buton:hover {
+    box-shadow: 0px 0px 30px lightblue;
+}
+
+.focus:focus {
+    background-color: lightblue;
 }
